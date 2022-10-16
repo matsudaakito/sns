@@ -14,7 +14,7 @@
 {{ Form::submit('ログイン') }}
 
 <p><a href="/register">新規ユーザーの方はこちら</a></p>
-
+<p>aaa</p>
 {!! Form::close() !!}
 
 @endsection
